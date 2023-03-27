@@ -1,4 +1,4 @@
-# 茂茂物语
+# justnotes
 
 - 前端物语
   - JavaScript
@@ -6,7 +6,7 @@
   - CSS
   - React
   - Vue
-  - ...（太多了先写这些）
+  - ...
 - 源码阅读
   - 了解各种库的实现原理
   - 学习各种小技巧和冷知识
@@ -17,14 +17,10 @@
   - 记录开发和日常使用中所用到的软件、插件、扩展等
 - ...(还没写，别着急)
 
-## 访问地址
+## 访问原仓库地址
 
 - <https://notes.fe-mm.com>
 - <https://mm-notes.vercel.app>
 - <https://mm-notes.netlify.app>
 
-## 鼓励作者
 
-如果你觉得博客对你有帮助，可以帮忙点个 `star` 或者打赏犒劳一下
-
-![鼓励作者](https://cdn.jsdelivr.net/gh/maomao1996/picture/sponsor/sponsor.jpg)
