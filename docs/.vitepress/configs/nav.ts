@@ -62,18 +62,14 @@ export const nav: DefaultTheme.Config['nav'] = [
     activeMatch: '^/efficiency'
   },
   {
-    text: '茂茂',
+    text: 'cocoa',
     items: [
       { text: '个人主页', link: 'https://fe-mm.com' },
       {
         text: '日常笔记',
         link: 'https://github.com/maomao1996/daily-notes'
       },
-      { text: 'mmPlayer', link: 'https://netease-music.fe-mm.com' },
-      {
-        text: '油猴脚本',
-        link: 'https://github.com/maomao1996/tampermonkey-scripts'
-      }
+      { text: 'mmPlayer', link: 'https://netease-music.fe-mm.com' }
     ]
   }
 ]
